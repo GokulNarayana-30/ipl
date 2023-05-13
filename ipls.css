@@ -1,0 +1,17 @@
+body{
+    background-color: navy;
+    color: white;
+    text-align: center;
+}
+marquee{
+    color: red;
+}
+footer{
+    background-color: black;
+    height: 60px;
+    color: white;
+    text-align: middle ;
+    initial-letter: middle;
+    inset-inline: center;
+    padding: 20px;
+}
